@@ -1,0 +1,41 @@
+.textorecepcao{
+    font-size: 3vw;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 20vw;
+    text-align: center;
+    font-family: "Kodchasan", sans-serif;
+}
+
+.rankingContainer{
+    background: linear-gradient(to bottom, #47BFDF, #4A91FF);
+}
+
+.subTitle{
+    color: #FFF;
+    text-align: center;
+    font-family: "Kodchasan", sans-serif;
+    padding-top: 4vw;
+    font-size: 3vw;
+}
+
+.divisao{
+    width: 70%;
+    margin-left: 15%;
+    background-color: #FFF;
+    height: 0.3vw;
+    border-radius: 1vw;
+}
+
+.botaoVoltar{
+    border: none;
+    width: 60%;
+    font-size: 2vw;
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+    border-radius: 0.5vw;
+    margin-left: 20%;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+    background-color: #fff;
+}
