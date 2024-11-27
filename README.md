@@ -10,10 +10,6 @@ A **SmartEnergy** tem como objetivo otimizar o consumo de energia em residência
 - **Integração com Energia Solar**: Suporte completo para usuários que desejam integrar sistemas de energia solar ao seu consumo.
 - **Cálculos Precisos**: Utilização de algoritmos para estimar o custo total de energia com base no consumo mensal e no valor do kWh, otimizando o orçamento familiar ou empresarial.
 
-## Vídeos do Projeto
-
-- [Video 1](https://www.youtube.com/watch?v=Xk_73wwOvGo&ab_channel=FIAPKAIAN)
-- [Video 2](https://www.youtube.com/watch?v=iUpLNIqccpc)
 
 ## Instruções para Manipulação do Sistema
 
